@@ -1,0 +1,7 @@
+<resources>
+    <color name="paper">#F4ECDD</color>
+    <color name="ic_bg">#F4FF52</color>
+    <style name="Theme.TalkMesh" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/paper</item>
+    </style>
+</resources>
